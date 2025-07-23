@@ -18,15 +18,16 @@ This project is a deep learning-based medical image classifier that detects pneu
 
 ## 📁 Folder Structure
 
+```
 pneumonia-detection-flask/
 │
-├── uiservernew.py # Flask server script (includes embedded HTML)
-├── best_modelprep.py # Model training script
-├── best_model.h5 # Trained CNN model file
+├── uiservernew.py                 # Flask server script (includes embedded HTML)
+├── best_modelprep.py             # Model training script
+├── best_model.h5                 # Trained CNN model file
 ├── static/
-│ └── lungs-glowing-low-poly.jpg # Background image used in the UI
+│   └── lungs-glowing-low-poly.jpg   # Background image used in the UI
+```
 
-✅ You can copy this tree structure using triple backticks (\`\`\`) in markdown to format it properly.
 
 ## ⚙️ Installation
 
@@ -59,7 +60,8 @@ cd pneumonia-detection-flask
 
 ## 🖼️ Output Example
 
-![Prediction Screenshot](static/lungs-glowing-low-poly.jpg)
+![WhatsApp Image 2025-04-05 at 22 31 19_bb890711](https://github.com/user-attachments/assets/0d59f038-aaab-42fb-9071-201f364744e7)
+
 
 ## ✅ Features
 
